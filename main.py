@@ -15,7 +15,7 @@ _steps = [
     "train_random_forest",
     # NOTE: We do not include this in the steps so it is not run by mistake.
     # You first need to promote a model export to "prod" before you can run this,
-    # then you need to run this step explicitly
+    # then 9e14227050bf3b62288521ee3273bee3606aa716 you need to run this step explicitly
 #    "test_regression_model"
 ]
 
