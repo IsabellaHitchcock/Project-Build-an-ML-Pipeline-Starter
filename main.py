@@ -54,7 +54,6 @@ def go(config: DictConfig):
             _ = mlflow.run(
                 os.path.join(hydra.utils.get_original_cwd(), "src", "basic_cleaning"),
          "main",
-         env_manager="local",
          parameters={
              "input_artifact": "nyc_airbnb/sample.csv:latest",
              "output_artifact": "clean_sample.csv",
