@@ -175,6 +175,9 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
+## Wandb report
+https://wandb.ai/isabellargaines-personal-study/nyc_airbnb/reports/Runs-for-ML--VmlldzoxMTgwMzI2Ng?accessToken=p2vk5yd2xasdoougnm9phkzuyk9mnaet9ymyyv7d85dcdooyl645kxcnolle3n90
+
 
 ## License
 
